@@ -1,5 +1,11 @@
 # xHamster Bulk Video Downloader
 
+## Watch the video
+
+<a href="https://www.youtube.com/watch?v=O5QL0a3YUgw" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-xhamster-videos.jpg" width="700px">
+</a>
+
 👉 Get it Here: https://serp.ly/xhamster-bulk-video-downloader
 
 ## Bulk Download xHamster Videos Faster
